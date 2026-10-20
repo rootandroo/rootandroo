@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning non-guix and microvms
 
-**Languages & Frameworks:** 
+**Languages & Frameworks:**
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 **Infrastructure & Systems:**  
